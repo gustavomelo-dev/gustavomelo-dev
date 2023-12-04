@@ -26,7 +26,7 @@
   <a href="https://w.app/9Q3FJV" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gusta7ms/gusta7ms/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gusta7ms/gusta7ms/output/github-contribution-grid-snake.svg">
