@@ -19,7 +19,7 @@
 </div>
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&include_all_commits=true&count_private=true&number_format=long&card_width=330"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&include_all_commits=false&count_private=true&number_format=long&card_width=330"/>
 
 ##
 
