@@ -1,25 +1,15 @@
 <h1 align="center">Hi there, I'm Gustavo Santos</h1>
 
-<div align="center">
+
+
+
+<!--align="center" -->
+<div>
   <a href="https://github.com/gusta7ms">
-    <picture height="180em">
-      <source
-        height="180em"
-        srcset="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&card_width=330"
-        media="(prefers-color-scheme: omni)"
-      />
-      <source
-        height="180em"
-        srcset="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&card_width=330"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&card_width=330" />
-    </picture>
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta7ms&layout=compact&langs_count=16&theme=omni&card_width=314px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&include_all_commits=true&count_private=true&card_width=330"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusta7ms&layout=compact&langs_count=16&theme=omni&card_width=314px"/>
 </div>
 
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&include_all_commits=false&count_private=true&number_format=long&card_width=330"/>
 
 ##
 
