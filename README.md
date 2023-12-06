@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Gustavo Santos</h1>
 
 
-
 <div align="center">
   <a href="https://github.com/gusta7ms">
   <img height="180em" src="https://github-readme-stats-cyan-iota-96.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&count_private=false&card_width=330px"/>
@@ -18,7 +17,7 @@
 - Backend: ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; & ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 - Frontend: ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;, ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;, ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-05122A?style=flat&logo=TYPESCRIPT)&nbsp; & ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 - Version code control: ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; & ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-- Tools: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; & ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+- Tools: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;, ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp; & ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=5849BE)&nbsp;
 - Layout: ![FIGMA](https://img.shields.io/badge/-FIGMA-05122A?style=flat&logo=FIGMA)&nbsp;
 
 
