@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm Gustavo Santos</h1>
 
+
+
 <div align="center">
   <a href="https://github.com/gusta7ms">
-  <img height="180em" src="https://github-readme-stats-cyan-iota-96.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&count_private=false&card_width=330"/>
+  <img height="180em" src="https://github-readme-stats-cyan-iota-96.vercel.app/api?username=gusta7ms&show_icons=true&theme=omni&count_private=false&card_width=330px"/>
   <img height="180em" src="https://github-readme-stats-cyan-iota-96.vercel.app/api/top-langs/?username=gusta7ms&layout=compact&langs_count=16&theme=omni&card_width=314px"/>
 </div>
 
