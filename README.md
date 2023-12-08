@@ -22,7 +22,7 @@
 
 
 
-<h2 align="center">contact</h2>
+<h2 align="center">Contact</h2>
 <div>
   <a href = "mailto:gmelo5805@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/gustavo-melo-5b705529b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
